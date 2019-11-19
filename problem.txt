@@ -1,0 +1,9 @@
+Median of Array	
+Maximum height of the staircase	
+Special Integer	
+Allocate Books	
+Aggressive cows	
+Smallest Good Base	
+Matrix Search	
+Square Root of Integer	
+Painter's Partition Problem
