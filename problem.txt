@@ -1,9 +1,9 @@
 Median of Array	
 Maximum height of the staircase	
 Special Integer	
-Allocate Books	
+*Allocate Books	
 Aggressive cows	
 Smallest Good Base	
 Matrix Search	
 Square Root of Integer	
-Painter's Partition Problem
+*Painter's Partition Problem
